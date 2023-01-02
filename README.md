@@ -1,6 +1,6 @@
 ## Hi Guys, I'm [Tauseef Ahamed](https://lk.linkedin.com/in/tauseef-zc) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
-[![Linkedin Badge](https://img.shields.io/badge/-tauseef-zc-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tauseef-zc)](https://lk.linkedin.com/in/tauseef-zc) [![Gmail Badge](https://img.shields.io/badge/-tauseef.offl@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tauseef.offl@gmail.com)](mailto:tauseef.offl@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-tauseefzc-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tauseef-zc)](https://lk.linkedin.com/in/tauseef-zc) [![Gmail Badge](https://img.shields.io/badge/-tauseef.offl@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tauseef.offl@gmail.com)](mailto:tauseef.offl@gmail.com)
 
 ## 🤵 Who am I?
 
