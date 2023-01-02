@@ -6,7 +6,6 @@
 
 I am a Senior Software Engineer with over 6 years of experience in the industry. I have a strong background in designing and building scalable, high-performance systems and am skilled in a variety of programming languages and frameworks. Throughout my career, I have had the opportunity to work on a wide range of projects, from developing desktop applications to building and maintaining large-scale web platforms. I am highly analytical and have a knack for problem-solving, and I am always looking for ways to improve processes and increase efficiency. In my current role, I lead a team of software engineers and work closely with product managers and designers to deliver high-quality software solutions.
 
-## 📊: Stats
 
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=tauseef-zc&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
